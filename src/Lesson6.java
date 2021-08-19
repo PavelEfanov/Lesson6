@@ -17,4 +17,6 @@ public class Lesson6 {
         System.out.println("Всего собак:  " + count.getHowManyDogs());
         System.out.println("Всего кошек:  " + count.getHowManyCats());
     }
+
+    //DONE
 }

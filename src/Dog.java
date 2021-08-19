@@ -5,4 +5,6 @@ public class Dog extends Animals {
         super(name, maxRun, maxSwim);
     }
 
+    //DONE
+
 }
