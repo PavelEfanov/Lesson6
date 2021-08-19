@@ -20,4 +20,6 @@ public class Animals {
             System.out.println(name + " столько не проплывет :(");
         } else System.out.println(name + " проплыл " + i + " м");
     }
+
+    //DONE
 }

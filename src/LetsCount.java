@@ -39,4 +39,6 @@ public class LetsCount {
     public int getHowManyCats() {
         return howManyCats;
     }
+
+    //DONE
 }

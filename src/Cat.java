@@ -10,4 +10,6 @@ public class Cat extends Animals {
         System.out.println("КОШЕЧКИ НЕ УМЕЮТ ПЛАВАТЬ!!!!!!!!!!");
     }
 
+    //DONE
+
 }
